@@ -7,9 +7,10 @@ Welcome to **CursedMinecraftPlugin**! This Minecraft plugin adds tons of hilario
 Here’s a sneak peek at some of the cursed and funny features that are already implemented:
 
 - **Walking Beds**: Ever been tired of sleeping in the same spot? Now your bed will randomly walk away when you're not looking!
+- **Super Random Teleport**: An RTP that doesn't care where it puts you!
+- **It's raining CATS and DOGS!!!!**: Be careful when it storms!
 - **Exploding Chickens**: Why should only Creepers explode? Chickens now have a chance to go *BOOM* when approached.
 - **Anti-Gravity Blocks**: Forget about gravity! Some blocks float randomly into the air, creating spontaneous floating islands.
-- **Dancing Mobs**: Certain mobs will randomly stop what they're doing to have a dance-off. Watch out for breakdancing Creepers!
 - **Backward Swimming Fish**: Fish now swim in reverse. They might be trying to evolve... or maybe they're just confused.
 - **Random Mob Sounds**: A zombie might sound like a cow, and a sheep might sound like a Ghast. Prepare for unexpected soundscapes!
 
