@@ -1,0 +1,4 @@
+name: CursedMinecraft
+version: '1.0-SNAPSHOT'
+main: d3v.nikkio.cursedMinecraft.CursedMinecraft
+api-version: '1.21'
