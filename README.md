@@ -53,7 +53,7 @@ More cursed features are on the way, so stay tuned! Watch this repo for updates,
 
 ## 💬 Contact
 
-Got a question or suggestion? Feel free to reach out via GitHub Issues or connect with me on Discord!
+Got a question or suggestion? Feel free to reach out via GitHub Issues!
 
 ---
 
