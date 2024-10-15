@@ -1,4 +1,4 @@
-CursedMinecraftPlugin
+## CursedMinecraftPlugin
 Welcome to CursedMinecraftPlugin! This Minecraft plugin adds tons of hilarious and cursed features to your game. Get ready for chaotic fun, as this plugin messes with Minecraft in ways you never thought possible. From absurd mobs to quirky mechanics, you’ll experience Minecraft like never before. Some features are already live, and many more are on the way – stay tuned for future updates!
 
 #### 🚀 Features
