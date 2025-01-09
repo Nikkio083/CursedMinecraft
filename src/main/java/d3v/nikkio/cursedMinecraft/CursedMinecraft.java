@@ -13,7 +13,7 @@ public final class CursedMinecraft extends JavaPlugin {
 
     public boolean enableFallDamage = false;
     public int drunkEffectDuration = 300;
-    public double bedExplodeChance = 0.1;
+    public double ExplodeChance = 0.1;
     public int amnesiaEffectDuration = 600; // 10 minutes
     public int shuffleInterval = 300; // 5 minutes
 
@@ -24,7 +24,8 @@ public final class CursedMinecraft extends JavaPlugin {
         Objects.requireNonNull(this.getCommand("rtp")).setExecutor(new RandomTeleportCommand(this));
         getServer().getPluginManager().registerEvents(new AnimalRainListener(this, enableFallDamage), this);
         getServer().getPluginManager().registerEvents(new DrunkEffectListener(this, drunkEffectDuration), this);
-        getServer().getPluginManager().registerEvents(new BedExplodeListener(this, bedExplodeChance), this);
+        getServer().getPluginManager().registerEvents(new BedExplodeListener(this, ExplodeChance), this);
+        getServer().getPluginManager().registerEvents(new BedExplodeListener(this, ExplodeChance), this);
         getServer().getPluginManager().registerEvents(amnesiaEffectListener, this);
     }
 }
