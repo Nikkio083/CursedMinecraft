@@ -8,7 +8,7 @@ Here’s a sneak peek at some of the cursed and funny features that are already 
 
 - **Super Random Teleport**: An RTP that doesn't care where it puts you!
 - **It's raining CATS and DOGS!!!!**: Be careful when it storms!
-- **Exploding Chickens**: Why should only Creepers explode? Chickens now have a chance to go *BOOM* when approached.
+- **Exploding Chickens**: Why should only Creepers explode? Chickens now have a chance to go *BOOM* when killed.
 - **Teleporting Grass**: Stepping on grass may randomly teleport you to a different part of the world. Watch your step!
 - **Walking Beds**: Ever been tired of sleeping in the same spot? Now your bed will randomly walk away when you're not looking!
 - **Random Mob Sounds**: A zombie might sound like a cow, and a sheep might sound like a Ghast. Prepare for unexpected soundscapes!
