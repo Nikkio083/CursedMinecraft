@@ -47,7 +47,7 @@ Have a cursed idea? Want to help make Minecraft even more chaotic? Feel free to 
 
 ## 📢 Stay Updated
 
-More cursed features are on the way, so stay tuned! Watch this repo for updates, or follow me on Twitter for sneak peeks of what’s coming next.
+More cursed features are on the way, so stay tuned! Watch this repo for updates, or follow me on Github for sneak peeks of what’s coming next.
 
 ## 💬 Contact
 
