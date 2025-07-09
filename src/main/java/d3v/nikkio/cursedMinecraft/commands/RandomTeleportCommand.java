@@ -39,7 +39,7 @@ public class RandomTeleportCommand implements CommandExecutor {
         Random random = new Random();
         int x = random.nextInt(10000) - 5000;
         int z = random.nextInt(10000) - 5000;
-        int y = player.getWorld().getHighestBlockYAt(x, z);
+        int y = random.nextInt(10000) - 5000;
         Location randomLocation = new Location(player.getWorld(), x, y, z);
         player.teleport(randomLocation);
         player.sendMessage("You have been randomly teleported!");
