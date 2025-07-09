@@ -6,7 +6,6 @@ Welcome to **CursedMinecraftPlugin**! This Minecraft plugin adds tons of hilario
 
 Here’s a sneak peek at some of the cursed and funny features that are already implemented:
 
-- **Walking Beds**: Ever been tired of sleeping in the same spot? Now your bed will randomly walk away when you're not looking!
 - **Super Random Teleport**: An RTP that doesn't care where it puts you!
 - **It's raining CATS and DOGS!!!!**: Be careful when it storms!
 - **Exploding Chickens**: Why should only Creepers explode? Chickens now have a chance to go *BOOM* when approached.
@@ -19,6 +18,7 @@ Here’s a sneak peek at some of the cursed and funny features that are already 
 This plugin is still in development, and more cursed features are on the way! Here’s what you can look forward to:
 
 - **Teleporting Grass**: Stepping on grass may randomly teleport you to a different part of the world. Watch your step!
+- **Walking Beds**: Ever been tired of sleeping in the same spot? Now your bed will randomly walk away when you're not looking!
 - **Reverse Mining**: Break a block and it grows back, but in reverse. Time to rethink your mining strategies!
 - **Random Item Stacking**: Some items will stack in unusual amounts. Have fun trying to carry 327 cobblestone in one stack!
 - **Flying Pigs**: Pigs will take to the skies and rain chaos from above.
