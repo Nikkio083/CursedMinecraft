@@ -26,7 +26,7 @@ This plugin is still in development, and more cursed features are on the way! He
 
 ## 💻 Installation
 
-1. Download the latest version of the plugin from the [releases page](https://github.com/YourUsername/CursedMinecraftPlugin/releases).
+1. Download the `CursedMinecraft.jar`
 2. Place the `.jar` file in your server’s `plugins` folder.
 3. Restart or reload your Minecraft server.
 4. Enjoy the madness!
